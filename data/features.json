@@ -5,18 +5,18 @@
     "icon": "fa-brands fa-windows",
     "link": "https://github.com/opera7133/tella"
   },
-        {
+  {
     "title": "Azure",
     "description": "",
     "icon": "fa fa-cloud",
     "link": "https://github.com/opera7133/tella"
   },
-          {
+  {
     "title": "Microsoft 365",
     "description": "",
     "icon": "fa-solid fa-shield-halved",
     "link": "https://github.com/opera7133/tella"
-  }
+  },
   {
     "title": "Infrastructure",
     "description": "Engineering solutions.",
