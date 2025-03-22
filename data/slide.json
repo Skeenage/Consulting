@@ -4,8 +4,12 @@
     "image": "img/slide/slide01.jpg"
   },
   {
-    "title": "Microsoft Specialist",
-    "image": "img/slide/slide03.jpg",
+    "title": "Microsoft Specialists",
+    "image": "img/slide/slide02.jpg",
     "color": "text-black"
+  },
+  {
+    "title": "Solution Experts",
+    "image": "img/slide/slide03.jpg",
   }
 ]
