@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
-title = "Tella"
-author = "username"
+baseURL = "https://gray-sky-0714c8103.6.azurestaticapps.net"
+title = "De Vito Consulting"
+author = "Oliver"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
