@@ -12,25 +12,22 @@
   {
     "title": "Architecture",
     "description": "End to end implementation.",
-    "icon": "icon-create",
-    "link": "https://github.com/opera7133/tella"
+    "icon": "icon-create"
   },
   {
     "title": "Windows",
     "description": "",
-    "icon": "fa-brands fa-windows",
-    "link": "https://github.com/opera7133/tella"
+    "icon": "fa-brands fa-windows"
   },
   {
     "title": "Microsoft 365",
     "description": "",
-    "icon": "fa-solid fa-shield-halved",
-    "link": "https://github.com/opera7133/tella"
+    "icon": "fa-solid fa-shield-halved"
   },
   {
     "title": "Azure",
     "description": "",
     "icon": "fa fa-cloud",
-    "link": "https://github.com/opera7133/tella"
+    "link": "https://DeVitoConsulting.com"
   }
 ]
