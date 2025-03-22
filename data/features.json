@@ -21,12 +21,6 @@
     "icon": "icon-access_time",
     "link": "https://github.com/opera7133/tella"
   },
-    {
-    "title": "Fast",
-    "description": "Diamond hands.",
-    "icon": "fa fa-mail-bulk",
-    "link": "https://github.com/opera7133/tella"
-  },
       {
     "title": "Fast",
     "description": "Diamond hands.",
@@ -36,7 +30,7 @@
         {
     "title": "Fast",
     "description": "Diamond hands.",
-    "icon": "fa-regular fa-cloud",
+    "icon": "fa fa-cloud",
     "link": "https://github.com/opera7133/tella"
   },
           {
@@ -51,10 +45,4 @@
     "icon": "fa-solid fa-gem",
     "link": "https://github.com/opera7133/tella"
   },
-            {
-    "title": "Fast",
-    "description": "Diamond hands.",
-    "icon": "fa-regular fa-rocket",
-    "link": "https://github.com/opera7133/tella"
-  }
 ]
