@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
 
-  showBlog = false
+  showBlog = true
   mainSections = ['blog']
 
   googleFonts = true
@@ -59,7 +59,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "blog"
-    name = "Blog"
+    name = "Projects"
     url = "/blog/"
     weight = 2
 
