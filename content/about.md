@@ -1,8 +1,8 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "Providing subject matter expertise in the overall design, implementation, management, and monitoring of both cloud-native & hybrid environments."
 date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
+aliases = ["about-us", "contact"]
 author = "Hugo Authors"
 +++
 
