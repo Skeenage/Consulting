@@ -1,17 +1,17 @@
 [
   {
-    "title": "Windows",
-    "description": "All the bare necessities are there.",
+    "title": "Infrastructure",
+    "description": "Engineering solutions.",
     "icon": "icon-desktop_windows"
   },
   {
-    "title": "Microsoft 365",
-    "description": "Light weight and fast loading speed.",
+    "title": "Expertise",
+    "description": "Certified in Windows, Microsoft 365, & Azure.",
     "icon": "icon-lightbulb_outline"
   },
   {
-    "title": "Azure",
-    "description": "Please fork the Github repository and contribute to this theme!",
+    "title": "Architecture",
+    "description": "End to end implementation.",
     "icon": "icon-create",
     "link": "https://github.com/opera7133/tella"
   }
