@@ -52,9 +52,9 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "services"
+    identifier = "products"
     name = "Services"
-    url = "/services/"
+    url = "/products/"
     weight = 1
 
   [[menu.main]]
