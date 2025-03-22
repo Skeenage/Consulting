@@ -36,12 +36,6 @@
         {{ end }}
         <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1">{{.Content}}</div>
         <div class="share m-2 grid grid-cols-2 lg:grid-cols-3 gap-2">
-            <a href="javascript:OnClickURL();" class="share-button url" title="Copy to Clipboard"
-                data-clipboard-text="{{ .Title }} {{ .Permalink }}" id="url">
-                <div class="text-white text-center">
-                    <span class="icon-link text-lg mr-2"></span>Copy
-                </div>
-            </a>
         </div>
         <hr class="py-4">
         {{- with .Site.Params.disqusShortname }}
