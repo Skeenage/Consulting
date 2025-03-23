@@ -24,8 +24,8 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    main = "img/logo/logo.png"
+    alt = "De Vito Consulting"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
