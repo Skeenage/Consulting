@@ -11,8 +11,8 @@ As Microsoft certified partners, we have been providing professional IT services
 ![image alt text](/img/about/AZ-305.jpg)
 
     <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="hi"
-    style="width: 128px; height: 128px;">
+    style="width: 128px; height: 128px;" />
     <img src="https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="hi"
-    style="width: 128px; height: 128px;">
+    style="width: 128px; height: 128px;" />
     <img src="https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="hi"
-    style="width: 128px; height: 128px;">
+    style="width: 128px; height: 128px;" />
