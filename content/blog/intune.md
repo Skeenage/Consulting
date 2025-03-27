@@ -3,7 +3,6 @@ author = "Oliver DeVito"
 title = "Intune Migration"
 date = "2024-08-14"
 description = "Full end to end secure deployment in 6 months"
-image = "/img/projects/default.jpg"
 tags = [
     "markdown",
     "text",
