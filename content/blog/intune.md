@@ -4,6 +4,7 @@ title = "Intune Migration"
 date = "2024-08-14"
 description = "Full end to end secure deployment in 6 months"
 image = "/img/projects/intune.jpg"
+summary = "test"
 tags = [
     "markdown",
     "text",
