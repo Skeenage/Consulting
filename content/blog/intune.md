@@ -16,7 +16,6 @@ We have successfully completed an Intune migration project in under 6 months, in
 3. ASR Rules
 4. Fully automated Autopilot deployment process
 
-![Microsoft Certified Expert](/img/about/microsoft-certified-expert-badge.svg)
 
 {{< css.inline >}}
 <style>
