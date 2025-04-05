@@ -1,9 +1,9 @@
 +++
 author = "Oliver DeVito"
-title = "Intune Migration"
-date = "2017-08-14"
-description = "Full end to end secure deployment in 6 months"
-summary = "Full end to end secure deployment in 6 months"
+title = "PowerShell Scripts"
+date = "2017-01-01"
+description = "PowerShell Scripts"
+summary = "PowerShell Scripts"
 image = "/img/projects/intune.jpg"
 tags = [
     "markdown",

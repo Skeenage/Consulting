@@ -1,9 +1,9 @@
 +++
 author = "Oliver DeVito"
-title = "Intune Migration"
-date = "2021-08-14"
-description = "Full end to end secure deployment in 6 months"
-summary = "Full end to end secure deployment in 6 months"
+title = "Kerberos Key Rotation Automation"
+date = "2021-01-01"
+description = "Kerberos Key Rotation Automation"
+summary = "Kerberos Key Rotation Automation"
 image = "/img/projects/intune.jpg"
 tags = [
     "markdown",

@@ -1,9 +1,9 @@
 +++
 author = "Oliver DeVito"
-title = "Intune Migration"
-date = "2020-08-14"
-description = "Full end to end secure deployment in 6 months"
-summary = "Full end to end secure deployment in 6 months"
+title = "Kiosk Deployment"
+date = "2020-01-01"
+description = "Kiosk Deployment"
+summary = "Kiosk Deployment"
 image = "/img/projects/intune.jpg"
 tags = [
     "markdown",

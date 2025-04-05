@@ -1,9 +1,9 @@
 +++
 author = "Oliver DeVito"
-title = "Intune Migration"
-date = "2024-08-14"
-description = "Full end to end secure deployment in 6 months"
-summary = "Full end to end secure deployment in 6 months"
+title = "Windows Native IKEv2 Always-On VPN Deployment"
+date = "2024-01-01"
+description = "Windows Native IKEv2 Always-On VPN Deployment"
+summary = "Windows Native IKEv2 Always-On VPN Deployment"
 image = "/img/projects/intune.jpg"
 tags = [
     "markdown",
