@@ -18,8 +18,5 @@ We provide administrative services, quickly getting up to speed & adapting tools
 * Azure Monitor
 * Microsoft 365 Audit
 * Log Analytics
-* Documentation
-  *  User Guides
-  *  Admin Guides
-  *  Procedures
-  *  Processes
+
+Documentation is important to us, and we ensure that all changes and implementations are fully documented, with clear explanations, diagrams, processes, procedures & instructions, producing guides for both users & administrators.
