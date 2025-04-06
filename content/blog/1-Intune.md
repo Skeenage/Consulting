@@ -102,6 +102,7 @@ We have successfully completed an Intune migration project in under 6 months, in
 
 ### 11. Centrally managed Remote Desktop configured allowing IT access to all devices
 
+
 {{< css.inline >}}
 <style>
 .canon { background: white; width: 100%; height: auto; }
