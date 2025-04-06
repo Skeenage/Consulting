@@ -18,16 +18,18 @@
     "title": "Windows",
     "description": "",
     "icon": "fa-brands fa-windows"
+    "link": "https://devitoconsulting.co.uk/products/7-server/"
   },
   {
     "title": "Microsoft 365",
     "description": "",
     "icon": "fa-solid fa-shield-halved"
+    "link": "https://devitoconsulting.co.uk/products/1-ms365/"
   },
   {
     "title": "Azure",
     "description": "",
     "icon": "fa fa-cloud",
-    "link": "https://DeVitoConsulting.co.uk"
+    "link": "https://devitoconsulting.co.uk/products/2-azure/"
   }
 ]
