@@ -11,8 +11,8 @@ tags = [
     "text",
 ]
 +++
-
-Full centralised Defender deployment with 96% device security score & 3% vulnerability score;
+  
+#### Full centralised Defender deployment with 96% device security score & 3% vulnerability score;
 * Firewall configuration
 * SmartScreen configuration
 * Antivirus configuration
