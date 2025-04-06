@@ -7,7 +7,7 @@ weight: 6
 description: Governance, Scripting, Monitoring, & Documentation
 ---
 ***
-We provide administrative services, quickly getting up to speed & adapting tools to business requirements, utilising:
+**We provide administrative services, quickly getting up to speed & adapting tools to business requirements, utilising:**
 
 * Azure Policy
 * Azure Blueprints

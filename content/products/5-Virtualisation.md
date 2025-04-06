@@ -7,7 +7,7 @@ weight: 5
 description: At the Process, Container, & Virtual Machine Level
 ---
 ***
-We provide expertise in all aspects of:
+**We provide expertise in all aspects of:**
 
 * Azure Virtual Desktop
 * Containers

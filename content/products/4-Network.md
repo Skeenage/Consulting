@@ -7,7 +7,7 @@ weight: 4
 description: On-Premises, Virtualised, & Cloud
 ---
 ***
-We provide services in the design, implantation, monitoring, maintenance, and administration of network systems, including:
+**We provide services in the design, implantation, monitoring, maintenance, and administration of network systems, including:**
 
 * VPN
 * Firewall
