@@ -14,6 +14,7 @@ Aside from our extensive experience, we are proud to have been awarded the follo
 * Azure Solutions Architecture
 * Azure Security Engineering
 * Azure Network Engineering
+* Azure Administration
 * Azure Virtual Desktop
 * Windows Server & Hybrid Infrastructure
 * Identity & Access Administration
