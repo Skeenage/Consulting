@@ -11,7 +11,7 @@ tags = [
     "text",
 ]
 +++
-***
+####
 #### Centrally & automatically deployed via Intune to Entra ID Joined Devices, we have configured a cutting edge VPN configuration that works flawlessly out of the box, using Windows native capabilities and with modern and secure authentication & protocols, ensuring compliance with the highest encryption standards.
 
 As the devices are Entra ID Joined, it was necessary to configure NDES servers for users to automatically receive their user-based certificates through Intune, which also allows certificate enrollment while not connected to the corporate network. The NDES itself is also configured to receive certificates automatically, and the IIS providing the service in addition to the Intune Certificate Connector both use a gMSA for additional security instead of a standard user-based service account. 
