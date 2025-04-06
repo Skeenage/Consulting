@@ -5,6 +5,7 @@ date = "2024-01-01"
 description = "Windows Native IKEv2 Always-On VPN Deployment"
 summary = "Windows Native IKEv2 Always-On VPN Deployment"
 image = "/img/projects/intune.jpg"
+draft = true
 tags = [
     "markdown",
     "text",
