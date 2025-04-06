@@ -5,6 +5,7 @@ date = "2023-01-01"
 description = "Microsoft Defender Deployment"
 summary = "Microsoft Defender Deployment"
 image = "/img/projects/intune.jpg"
+draft = true
 tags = [
     "markdown",
     "text",

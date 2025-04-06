@@ -5,6 +5,7 @@ date = "2017-01-01"
 description = "PowerShell Scripts"
 summary = "PowerShell Scripts"
 image = "/img/projects/intune.jpg"
+draft = true
 tags = [
     "markdown",
     "text",

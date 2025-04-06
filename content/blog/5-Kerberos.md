@@ -5,6 +5,7 @@ date = "2021-01-01"
 description = "Kerberos Key Rotation Automation"
 summary = "Kerberos Key Rotation Automation"
 image = "/img/projects/intune.jpg"
+draft = true
 tags = [
     "markdown",
     "text",

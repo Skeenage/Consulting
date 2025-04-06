@@ -5,6 +5,7 @@ date = "2020-01-01"
 description = "Kiosk Deployment"
 summary = "Kiosk Deployment"
 image = "/img/projects/intune.jpg"
+draft = true
 tags = [
     "markdown",
     "text",

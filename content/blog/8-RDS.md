@@ -5,6 +5,7 @@ date = "2018-01-01"
 description = "Remote Desktop Services Deployment"
 summary = "Remote Desktop Services Deployment"
 image = "/img/projects/intune.jpg"
+draft = true
 tags = [
     "markdown",
     "text",
