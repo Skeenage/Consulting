@@ -7,7 +7,7 @@ weight: 5
 description: At the Process, Container, & Virtual Machine Level
 ---
 ***
-**We provide expertise in all aspects of:**
+**We provide comprehensive solutions delivering secure, scalable, and flexible virtual desktop and application experiences, seamlessly integrated into existing infrastructure and using resources efficiently with virtualisation technologies and expertise in all aspects of:**
 
 * Azure Virtual Desktop
 * Containers
