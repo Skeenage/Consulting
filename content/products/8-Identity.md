@@ -6,7 +6,7 @@ featured: true
 weight: 8
 description: Windows, Android, & Apple
 ---
-
+***
 We have expertise in the full lifecycle of end user devices, managing all aspects from beginning to end, including the design, implementation, deployment, maintenance & troubleshooting of endpoints, while integrating seamless security.
 
 Examples of our services include:
