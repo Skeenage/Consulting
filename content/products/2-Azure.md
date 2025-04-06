@@ -6,7 +6,7 @@ featured: true
 weight: 2
 description: Azure Infrastructure Architecture
 ---
-
+***
 We design Azure infrastructure solutions, delivering a complete end-to-end service by translating business requirements into secure, scalable, cost effective, and well organised projects.
 
 Working with stakeholders, we provide advice, planning, and implementation of an overall solution that both aligns with the Azure Well-Architected and Cloud Adoption Frameworks, and also meets the flexibility of your business.
