@@ -5,6 +5,7 @@ date = "2025-01-01"
 description = "Full end to end secure deployment in 6 months"
 summary = "Full end to end secure deployment in 6 months"
 image = "/img/projects/intune.jpg"
+draft = false
 tags = [
     "markdown",
     "text",
